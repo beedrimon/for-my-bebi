@@ -27,7 +27,7 @@ noButton.addEventListener("click", function () {
 });
 
 function handleYesClick() {
-  titleElement.innerHTML = "Yayyy! Kiss ka sakin ng marami :3";
+  titleElement.innerHTML = "Yayyy! Sabi na crush na crush moko eh, kiss ka sakin ng marami :3";
   buttonsContainer.classList.add("hidden");
   changeImage("yes");
 }
